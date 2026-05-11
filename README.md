@@ -1,2 +1,7 @@
-# AngularSignalFormWIthDexieDb
-Automatically save form data to the Dexie database in real time, ensuring the user's input is preserved even after page refresh, browser close, or accidental navigation.
+# DexieDb
+
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.9.
+
+## Development server
+
+Node version :- 24.15.0
